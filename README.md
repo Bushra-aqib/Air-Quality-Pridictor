@@ -1,10 +1,9 @@
-# 🌍 Air Quality Prediction App
+#  Air Quality Prediction App
 
 This project is a Streamlit-based web application that predicts multiple air pollutants using sensor input data. It utilizes a **Multi-Output Linear Regression model** trained on real-world air quality sensor readings.
 
----
 
-## 📊 Project Overview
+##  Project Overview
 
 - **Goal:** Predict the concentration of air pollutants such as `CO(GT)`, `NOx(GT)`, `NO2(GT)`, and `C6H6(GT)` using environmental and sensor inputs.
 - **Technique:** Multi-output regression with `LinearRegression` from scikit-learn.
@@ -12,7 +11,7 @@ This project is a Streamlit-based web application that predicts multiple air pol
 
 
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. Clone the repository  
    ```bash
@@ -30,15 +29,14 @@ This project is a Streamlit-based web application that predicts multiple air pol
    streamlit run predict.py
    ```
 
----
 
-## 📷 UI Preview
+## UI Preview
 
 ![App UI](assets/ui_output.jpg)
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 - Add visualizations (e.g., pollutant trends)
 
 - Use a more advanced model (e.g., Random Forest or XGBoost)
@@ -47,11 +45,12 @@ This project is a Streamlit-based web application that predicts multiple air pol
 
 
 
-## 👩‍💻 Author
+## Author
 
 **Bushra Aqib**  
 BSc Artificial Intelligence  
-🔗 [LinkedIn](https://www.linkedin.com/in/bushra-aqib)
+
+ [LinkedIn](https://www.linkedin.com/in/bushra-aqib)
 
 ---
 
